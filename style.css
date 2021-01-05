@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    font-family:roboto;
+}
+.heading{
+    float:right;
+    margin:15px;
+    padding:10px;
+}
+.heading a{
+    text-decoration: none;
+    font-weight:600;
+    color:#3a3a3a;
+    margin:5px;
+    padding:5px;
+}
+h1{
+    font-size: 60px;
+    font-family:bebas neue;
+    
+}
+
+.half-width{
+    float:left;
+    width:40%;
+    margin-top:5%;
+    margin-left:5%;
+    padding-left:2%;
+
+}
+.half-width img{
+    width:100%;
+}
+.violet-hightlighted{
+    color:#363958;
+
+}
+.tomato-highlighted{
+    color:tomato;
+    margin-top:-60px;
+}
+p{
+    color:dimgray;
+}
+#hire{
+    text-decoration:none;
+    color:white;
+    background-image:linear-gradient(#ff3d3d,tomato);
+    padding: 10px 15px;
+    border-radius:7px;
+}
+h2{
+    font-family:bebas neue;
+    font-size: 50px;
+    font-weight:450;
+}
+.tomato{
+    color:tomato;
+}
+
+.center-aligned{
+    text-align: center;
+
+}
+.facebook{
+    text-decoration:none;
+    color:white;
+    padding:10px 15px;
+    background-image:linear-gradient(#0084ff,blue);
+    border-radius:20px;
+}
