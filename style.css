@@ -31,7 +31,7 @@ h1{
 .half-width img{
     width:100%;
 }
-.violet-hightlighted{
+.violet-highlighted{
     color:#363958;
 
 }
@@ -55,11 +55,10 @@ h2{
     font-weight:450;
 }
 
-}
-
 .center-aligned{
-    display:inline-block;
-    margin-top:20%;
+    clear:both;
+    text-align:center;
+    margin-top:10%;
 
 }
 .facebook{
@@ -70,6 +69,98 @@ h2{
     border-radius:20px;
 }
 section{
-    height:500px;
+    height:550px;
     width:100%;
 }
+
+.bottom-image{
+    text-align:left;
+    width:200px;
+    height:250px;
+
+    padding:10px;
+    display:inline-block;
+    background-color: white;
+    border-radius: 10px;
+
+   
+}
+.bottom-image img{
+    width:200px;
+}
+
+.bottom-part{
+    text-align: center;
+    background-color:whitesmoke;
+    height:550px;
+    width:auto;
+    margin:20px;
+    border-radius:15px;
+   
+}
+.work h2{
+    color:white;
+    display:inline;
+    padding-top:50px;
+    position:absolute;
+    left:400px;
+    bottom:4px;
+
+   
+
+}
+.work a{
+    text-decoration:none;
+    background-image:linear-gradient(#ff3d3d,tomato);
+    color:white;
+    padding:5px 10px;
+    border-radius:5px;
+    float:right;
+    margin-top:15px;
+    position:absolute;
+    right:400px;
+    top:43px;
+    
+}
+.work img{
+    width:45%;
+    border-radius:18px;
+    
+}
+.work{
+    text-align: center;
+    position:relative;
+    margin-top: 100px;
+    
+}
+
+.review{
+    text-align: center;
+    height:400px;
+    
+}
+
+footer{
+    font-family:bebas neue;
+    size:30px;
+    font-weight:550;
+    color:#363958;
+    text-align: center;
+
+}
+footer h2{
+    font-family:roboto;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+footer img{
+    width:50px;
+}
+.review img{
+    width:100px;
+}
+.last{
+    height:300px;
+}
+
