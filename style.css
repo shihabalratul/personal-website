@@ -54,12 +54,12 @@ h2{
     font-size: 50px;
     font-weight:450;
 }
-.tomato{
-    color:tomato;
+
 }
 
 .center-aligned{
-    text-align: center;
+    display:inline-block;
+    margin-top:20%;
 
 }
 .facebook{
@@ -68,4 +68,8 @@ h2{
     padding:10px 15px;
     background-image:linear-gradient(#0084ff,blue);
     border-radius:20px;
+}
+section{
+    height:500px;
+    width:100%;
 }
